@@ -1,0 +1,18 @@
+﻿* What is a primitive data type? List the 5 primitive data types in C++.
+String
+Int
+Float 
+Chartater 
+Fuction
+* What is the function of the << and >> operators in C++. Hint: there are 2 different meanings based on usage
+        << as in cin is pointing to where the data goes
+        >> as in cout is also showing where data goes 
+* How did you handle potential errors or invalid inputs in your programs?
+        When you set the var type it only allows that type to be entered,
+        With most of mine any text or number could be entered so it was quite 
+simple        
+* What strategies did you use to debug your code?
+        After looking over to make sure every line had a ;
+        I asked the internet or if that falled chat-gpt
+* How did you ensure your code was efficient and readable?
+        Using // comments and trying to cut down on lines of code, however at this scale and my limited knowledge of C++ it was hard
